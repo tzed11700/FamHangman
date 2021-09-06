@@ -209,7 +209,7 @@ let words = [
     'Trivial Pursuit',
     'Cribbage',
     'Riker',
-    'Dranna Troi',
+    'Deanna Troi',
     'Data',
     'Camera',
     'Hockey',
